@@ -1,2 +1,2 @@
 # nifi-dark
-Dark mode for Apache NiFi UI
+Userscript for dark mode for Apache NiFi UI
